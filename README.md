@@ -1,2 +1,4 @@
-# bc5rCu6EUp459OWk
-Büşra GÖKMEN
+Term Deposit Prediction From Unbalanced Credict Custemor Data
+* Oversampling
+* Undersampling
+* Ensemble Learning
